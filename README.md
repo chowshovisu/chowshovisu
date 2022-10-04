@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shovan Chowdhury
 - 👀 I’m interested in Machine Learning, Data Science, Robotics and AI
-- 🌱 I’m currently a MS student at Idaho State University
-- 💞️ I will be graduated at the end of Spring 2022
+- 🌱 I’m currently a Ph.D. student at University of Tennessee
 - 📫 How to reach me? Contact me at shovanchowdhury@isu.edu
 
 <!---
